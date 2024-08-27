@@ -78,7 +78,7 @@ function App() {
           alt="gallery"
           id='ph'
           className="w-20 object-cover h-15 object-center block opacity-1 absolute inset-0" style={{ top: `${topOffset}px`,left: `${leftOffset}px`}} 
-          src="img/360_F_533178753_ASLNL6D0VchJdgnxPJYq4fQ4ePeFHGWv-removebg-preview.png"
+          src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNjgwLTE2Ni1wLWwxZGJ1cTN2LnBuZw.png"
         />
         </div>
   </div>
